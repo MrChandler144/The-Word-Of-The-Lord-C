@@ -258,7 +258,6 @@ int DoTheMemoryApp(const char* prompt, const char* verse) {
           printf("%c", verse[i]);
         }
       } else {
-        new_index = GetNextIndex(verse, index);
         // print the word in uppercase
         for (i = index; i < new_index; i++) {
           printf("%c", (char)toupper(verse[i]));
