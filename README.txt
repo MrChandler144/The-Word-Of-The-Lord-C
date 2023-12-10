@@ -6,7 +6,7 @@
                                                  
 A little app that allows you to memorise long sentences. Designed to be used in the context of memorising Bible verses.
 
-Verses are read in from the reference.txt file and pricessed in the app. Guess the first letter of each word, and every number.
+Verses are read in from the reference.txt file and processed in the app. Guess the first letter of each word, and every number.
 To add a new verse, copy in this line and change the prompt and verse:
 00000	0000	Prompt	Verse
 I have added a few verses to begin with, I hope you enjoy!
